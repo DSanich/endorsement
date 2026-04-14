@@ -1,5 +1,8 @@
-I’m sharing a signed [recommendation letter]() from Alex Prate, Co-Founder of Hypha, where I worked as a Web3 Developer (May 7, 2025 – March 24, 2026). 
+I’m sharing a signed [recommendation letter]() from Alex Prate, Co-Founder of [Hypha](https://github.com/hypha-dao), where [I](https://github.com/DSanich) worked as a Web3 Developer (May 7, 2025 – March 24, 2026) on [Hypha DAO project](https://github.com/hypha-dao/hypha-web). 
 
+Would re-hire me when funding returns. Looking for web3 work.
+
+I grateful for the trust - and open to new opportunities.
 
 ## Key takeaways 
 Extremely fast ramp‑up, AI‑assisted development (Claude + prompt engineering)
@@ -48,7 +51,11 @@ Extremely fast ramp‑up, AI‑assisted development (Claude + prompt engineering
 
 #OpenSource
 
+#Hypha
+#HyphaDAO
+
 #OpenToWork
+#BlockchainDev
 #Web3Jobs
 #FullStackWeb3
 #Web3Dev 
