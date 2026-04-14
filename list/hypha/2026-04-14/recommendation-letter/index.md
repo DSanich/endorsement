@@ -7,7 +7,9 @@ where [I](https://github.com/DSanich) worked as a Web3 Full-stack Developer
 on [Hypha DAO project](https://github.com/hypha-dao/hypha-web). 
 
 
-Would re-hire me when funding returns. Looking for web3 work.
+Would re-hire me when funding returns. 
+
+Looking for web3 work.
 
 I grateful for the trust - and open to new opportunities.
 
