@@ -14,7 +14,7 @@ Looking for web3 work.
 I grateful for the trust - and open to new opportunities.
 
 ## Key takeaways 
-Extremely fast ramp‑up, AI‑assisted development (Claude + prompt engineering)
+Extremely fast ramp‑up, Very high delivery speed, Proactive communication + daily reporting, Participation in code reviews & Top-notch AI-assisted development (Claude + prompt engineering)
 
 ## Keywords
 
