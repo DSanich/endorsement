@@ -1,8 +1,10 @@
 # Hypha Recommendation letter
 
 #Web3 
+#Decentralization
 #Blockchain
-#DAO
+#Ethereum
+#Base
 
 #Fullstack
 #TypeScript
@@ -13,8 +15,19 @@
 #AI
 #genAI
 #Cursor
+#CodeRabbit
 
 #WebDev
 #Freelance
 #Remote
 #Contribution
+
+#DAO (Spaces, Proposals, Voting)
+#Governance 
+#Community
+
+#Token (Token creation | Create Token | Stablecoin | USDT | USDC | Altcoin)
+#Transaction (Payment request)
+#Wallet
+
+#OpenSource
