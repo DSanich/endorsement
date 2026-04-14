@@ -51,6 +51,7 @@ Extremely fast ramp‑up, AI‑assisted development (Claude + prompt engineering
 #Tokenization (Token creation | Create Token | Stablecoin | USDT | USDC | Altcoin)
 #BlockExplorer (Address | Transaction | Payment)
 #Wallet
+#SaaS
 
 #OpenSource
 
@@ -59,6 +60,5 @@ Extremely fast ramp‑up, AI‑assisted development (Claude + prompt engineering
 
 #OpenToWork
 #BlockchainDev
-#Web3Jobs
-#FullStackWeb3
+#FullStackEngineer
 #Web3Dev
