@@ -1,12 +1,20 @@
 # Hypha Recommendation letter
 
-#web3 
-#blockchain
-#dao
+#Web3 
+#Blockchain
+#DAO
 
-#fullstack
-#react
-#nextjs
-#privy
+#Fullstack
+#TypeScript
+#React
+#NextJS
+#Privy
 
-#ai
+#AI
+#genAI
+#Cursor
+
+#WebDev
+#Freelance
+#Remote
+#Contribution
