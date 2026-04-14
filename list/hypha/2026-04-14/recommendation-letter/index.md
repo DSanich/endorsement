@@ -36,6 +36,9 @@ Extremely fast ramp‑up, AI‑assisted development (Claude + prompt engineering
 #PromptEngineering
 #AIDevelopment
 
+#Github
+#Discord
+
 #WebDev
 #Freelance
 #Remote
@@ -46,7 +49,7 @@ Extremely fast ramp‑up, AI‑assisted development (Claude + prompt engineering
 #Community
 
 #Tokenization (Token creation | Create Token | Stablecoin | USDT | USDC | Altcoin)
-#Transaction (Payment request)
+#BlockExplorer (Address | Transaction | Payment)
 #Wallet
 
 #OpenSource
@@ -58,4 +61,4 @@ Extremely fast ramp‑up, AI‑assisted development (Claude + prompt engineering
 #BlockchainDev
 #Web3Jobs
 #FullStackWeb3
-#Web3Dev 
+#Web3Dev
