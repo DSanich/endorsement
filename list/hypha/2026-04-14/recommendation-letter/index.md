@@ -1,4 +1,4 @@
-I’m sharing a signed [recommendation letter]() from Alex Prate, Co-Founder of [Hypha](https://github.com/hypha-dao), 
+I’m sharing a signed [recommendation letter](https://raw.githubusercontent.com/DSanich/endorsement/refs/heads/main/list/hypha/2026-04-14/recommendation-letter/hypha-recommendation-letter-web3-blockchain-dao-fullstack-react-nextjs-privy-ai-dsanich-2026-04-14-signed.jpg) from Alex Prate, Co-Founder of [Hypha](https://github.com/hypha-dao), 
 
 where [I](https://github.com/DSanich) worked as a Web3 Full-stack Developer 
 
